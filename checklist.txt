@@ -1,0 +1,33 @@
+FrontEnd
+[x] UI/UX
+[x] Tentang
+    [] Profil Perusahaan
+    [] Visi
+    [] Misi
+[x] Layanan
+    [x] Kategori
+    [x] Detil Layanan
+        [x] Tab-pane/content
+        [x] Daftar via WhatsApp
+        [x] Gambar
+[x] Testimoni
+[x] Hubungi Kami
+    [x] Maps
+    [x] WhatsApp
+
+Backend
+[x] Middleware
+[x] WYSIWYG CKEditor
+[x] DataTable
+[x] SweetAlert
+[x] Login
+    [x] Data
+        [x] Kategori
+        [x] Layanan
+            [x] Gambar
+            [x] Preview gambar di tabel
+        [x] Testimoni
+        [x] Kontak
+    [x] User Account
+        [x] Update Password
+[x] Logout
